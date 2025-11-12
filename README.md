@@ -1,6 +1,8 @@
 # github-final-project
 IBM - Getting Started with Git and Github - Final Project
 
+
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
